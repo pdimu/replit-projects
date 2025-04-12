@@ -1,0 +1,56 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+  cout << "Cască ochii la tocmeală, iar nu după ce te-nșeală." << endl;
+  cout << "Cand pisica nu-i acasă, șoarecii joacă pe masă" << endl;
+  cout << "Cine împarte, parte își face." << endl;
+  cout << "Cine nu-ncearcă, nici nu câștigă." << endl;
+  cout << "Cine știe carte, are patru ochi." << endl;
+  cout << "La plăcinte înainte, la război înapoi." << endl;
+  cout << "Lauda de sine nu miroase a bine." << endl;
+  cout << "Laudă-mă gură, că ți-oi da friptură." << endl;
+  cout << "Lăcomia pierde omenia." << endl;
+  cout << "Ai carte, ai parte." << endl;
+  cout << "Așchia nu sare departe de trunchi." << endl;
+  cout << "Avocatul nepoftit este bun de pălmuit." << endl;
+  cout << "Surdul n-aude, dar le potrivește." << endl;
+  cout << "Bine faci, bine găsești." << endl;
+  cout << "Buturuga mică răstoarnă carul mare." << endl;
+  cout << "Ce ție nu-ți place, altuia nu-i face." << endl;
+  cout << "Cine râde la urmă râde mai bine." << endl;
+  cout << "Cine se frige cu ciorba, suflă și în iaurt." << endl;
+  cout << "Copilul și bețivul spun adevărul." << endl;
+  cout << "Cum îți așterni așa dormi." << endl;
+  cout << "Cu răbdarea treci și marea." << endl;
+  cout << "Dacă tăceai, filosof rămâneai." << endl;
+  cout << "Dar din dar se face rai." << endl;
+  cout << "E bun numai când doarme." << endl;
+  cout << "Foamea e cel mai bun bucătar." << endl;
+  cout << "Fuga e rușinoasă, dar sănătoasă." << endl;
+  cout << "Graba strică treaba." << endl;
+  cout << "Haina nu îl face pe om." << endl;
+  cout << "În țara orbilor, chiorul este împărat" << endl;
+  cout << "Mai bine mai târziu decât niciodată." << endl;
+  cout << "Mamă soacră, poamă acră." << endl;
+  cout << "Minciuna are picioare scurte." << endl;
+  cout << "Mâța blândă zgârie rău." << endl;
+  cout << "Mi-e milă de tine, dar de mine mi se rupe inima." << endl;
+  cout << "Nemulțumitului i se ia darul." << endl;
+  cout << "Nu-ți băga nasul unde nu-ți fierbe oala." << endl;
+  cout << "Nu tot ce zboară se mănâncă." << endl;
+  cout << "Nu toate muștele fac miere." << endl;
+  cout << "Nu lăsa pe mâine ce poți face azi." << endl;
+  cout << "Ochii care nu se văd se uită." << endl;
+  cout << "Paza bună trece primejdia rea" << endl;
+  cout << "Prietenul la nevoie se cunoaște" << endl;
+  cout << "Peștele de la cap se-mpute" << endl;
+  cout << "Prea puțin ca să trăiești, prea mult ca să mori" << endl;
+  cout << "Rușinosul roade osul." << endl;
+  cout << "S-a dus bou și a venit vacă." << endl;
+  cout << "Tăcerea e de aur, vorba de argint." << endl;
+  cout << "Unde-s mulți, puterea crește." << endl;
+  cout << "Un nebun întreabă mai mult decât pot spune zece înțelepți." << endl;
+  cout << "Vorba dulce mult aduce." << endl;
+  return 0;
+}
